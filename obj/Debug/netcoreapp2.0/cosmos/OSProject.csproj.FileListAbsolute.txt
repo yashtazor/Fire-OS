@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\OSProject\OSProject\bin\Debug\netcoreapp2.0\cosmos\OSProject.deps.json
+C:\Users\YASH\source\repos\OSProject\OSProject\bin\Debug\netcoreapp2.0\cosmos\OSProject.dll
+C:\Users\YASH\source\repos\OSProject\OSProject\bin\Debug\netcoreapp2.0\cosmos\OSProject.pdb
+C:\Users\YASH\source\repos\OSProject\OSProject\obj\Debug\netcoreapp2.0\cosmos\OSProject.csprojAssemblyReference.cache
+C:\Users\YASH\source\repos\OSProject\OSProject\obj\Debug\netcoreapp2.0\cosmos\OSProject.AssemblyInfoInputs.cache
+C:\Users\YASH\source\repos\OSProject\OSProject\obj\Debug\netcoreapp2.0\cosmos\OSProject.AssemblyInfo.cs
+C:\Users\YASH\source\repos\OSProject\OSProject\obj\Debug\netcoreapp2.0\cosmos\OSProject.dll
+C:\Users\YASH\source\repos\OSProject\OSProject\obj\Debug\netcoreapp2.0\cosmos\OSProject.pdb
