@@ -126,4 +126,4 @@ https://github.com/CosmosOS/Cosmos/tree/master/Demos/BeepDemo
 <b>Original COSMOS Creators</b>  
 https://github.com/CosmosOS/Cosmos/tree/master/Demos/CosmosGraphicSubsystem
 
-##### Created by Yash Dekate & Ayanabha Jana.
+##### <p align="center"> Created by Yash Dekate & Ayanabha Jana. </p>
