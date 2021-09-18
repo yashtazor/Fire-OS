@@ -1,4 +1,4 @@
-# Fire OS.
+# Fire OS
 A minature Operating System made with COSMOS and C# in Visual Studio.  
 
 ![62bad0f9cdd74956df81e794536fde54](https://user-images.githubusercontent.com/42903859/82881655-96dc0d00-9f5d-11ea-8d7d-63ec80f472ff.png)
