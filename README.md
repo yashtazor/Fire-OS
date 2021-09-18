@@ -125,5 +125,3 @@ https://github.com/CosmosOS/Cosmos/tree/master/Demos/BeepDemo
 2. Basic GUI Implementation by
 <b>Original COSMOS Creators</b>  
 https://github.com/CosmosOS/Cosmos/tree/master/Demos/CosmosGraphicSubsystem
-
-##### <p align="center"> Created by Yash Dekate & Ayanabha Jana. </p>
