@@ -1,29 +1,20 @@
 # Fire OS
-A minature Operating System made with COSMOS and C# in Visual Studio.  
+A miniature Operating System made with COSMOS and C# in Visual Studio.  
 
 ![62bad0f9cdd74956df81e794536fde54](https://user-images.githubusercontent.com/42903859/82881655-96dc0d00-9f5d-11ea-8d7d-63ec80f472ff.png)
 
-## Contents
+## Setting up the environment
 
-1. Setting up the environment
-2. Features
-3. List of Commands
-4. How to Run?
-5. Credits
-
-
-### 1. Setting up the environment
-
-<b>Prerequisites</b>  
+### Prerequisites 
 These have to be installed before installing COSMOS.
 
 1. Visual Studio
 2. Visual Studio Workload: .NET Core Tools
 3. .NET Framework 4.6.2 Developer Pack 
-4. VMWare Workstation (Should include VMWare Player)
+4. VMWare Player
 
-#### NOTE 
-1. I haven't mentioned the versions here because it is adviced to use the latest version of it at the time of you viewing this project.
+### Note 
+1. I haven't mentioned the versions here because it is advised to use the latest version of it at the time of you viewing this project.
 2. COSMOS only works with VMWare Player. So, VirtualBox, etc won't work.
 
 After installing all the pre-requisites, install COSMOS from here. Make sure VS is not running.
@@ -43,7 +34,7 @@ More help in installation can be found here
 https://www.gocosmos.org/docs/install/
 
 
-### 2. Features
+## Features
 
 Here is what our OS can do in a nutshell!
 
@@ -53,7 +44,7 @@ Here is what our OS can do in a nutshell!
 4. Implements simple system commands.  
 
 
-### 3. Commands List
+## Commands List
 
 The commands are divided in 3 parts as 'Program' commands, 'File System' commands & 'System' commands.
 
@@ -102,7 +93,7 @@ Shuts down the OS.
 Returns information about the OS. 
 
 
-### 4. How to Run?
+## How to run?
 
 The steps involved are
 
@@ -111,12 +102,12 @@ The steps involved are
 3. Open the OSProject.sln file.
 4. Click COSMOS button on the top in VS.
 
-This would open the running OS in VMWare Player.
+This would build and open the running OS in VMWare Player.
 
 
-### 5. Credits
+## Credits
 
-Some of the modules of the projects weren't created by us. We've listed the features & their creators here.
+Some of the modules of this project weren't created by us. We've listed the features & their creators here.
 
 1. Music Player by
 <b>Original COSMOS Creators</b>  
